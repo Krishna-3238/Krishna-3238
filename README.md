@@ -49,3 +49,19 @@ I am a passionate Data Scientist with a strong background in computer science an
 3. **Book Recommendations Project**  
    A system that provides book recommendations based on user preferences and reading history using machine learning algorithms.  
    [View Project](https://book-recommendation-system-ml.streamlit.app/)
+   
+## Certifications
+1. **Python Summer Bootcamp** – Programming Pathshala  
+   Comprehensive training in Python programming, focusing on essential libraries like pandas, numpy, matplotlib, and seaborn for data analysis and visualization.  
+   [Certification Link](https://github.com/Krishna-3238/Certification-Courses/blob/main/Python%20summer%20bootcamp%20programmingpathshala.pdf)
+
+2. **IBM Professional Data Science Certification** – Coursera  
+   An in-depth data science program covering data analysis, machine learning, and data visualization using tools like Python and SQL.  
+   [Certification Link](https://github.com/Krishna-3238/Certification-Courses/tree/main/IBM%20Professional%20Data%20Science%20Certificates)
+
+3. **Data Analysis & Visualization with Excel, Tableau** – Coursera  
+   Practical training in data analysis and visualization techniques using Excel and Tableau, ideal for business intelligence tasks.  
+   [Certification Link](https://github.com/Krishna-3238/Certification-Courses/tree/main/Data%20analysis%20certificates)
+
+
+
