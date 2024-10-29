@@ -4,21 +4,27 @@
 I am a passionate Data Scientist with a strong background in computer science and extensive experience in data analysis, machine learning, and data visualization. I am proficient in multiple programming languages and tools that empower me to turn data into actionable insights.
 
 ## Skills
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big_Data-FF5733?style=for-the-badge&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4EADCB?style=for-the-badge&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FF5733?style=for-the-badge&logo=matplotlib&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge&logoColor=white)
+
+
+
 
 ## Contact Information
 - **Email**: ksah3238@gmail.com
@@ -32,10 +38,14 @@ I am a passionate Data Scientist with a strong background in computer science an
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/krishna_323)
 
 ## Projects
-1. **SMS Classifier Project**  
+1. **Symptom-Based Medical Recommendation System**  
+   Developed a system that predicts diseases and provides personalized recommendations, including medications, precautions, diets, and workouts based on user symptoms. The project includes a web app built with Flask to make it user-friendly.  
+   [View Project](https://github.com/Krishna-3238/Medical-Recommendation-System.git)
+
+2. **SMS Classifier Project**  
    An application that classifies SMS messages as spam or not spam using machine learning techniques.  
    [View Project](https://sms-classifier-project-app.streamlit.app/)
 
-2. **Book Recommendations Project**  
+3. **Book Recommendations Project**  
    A system that provides book recommendations based on user preferences and reading history using machine learning algorithms.  
    [View Project](https://book-recommendation-system-ml.streamlit.app/)
