@@ -23,45 +23,44 @@ I am a passionate Data Scientist with a strong background in computer science an
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge&logoColor=white)
 
+## Projects 🚀
+1. **Symptom-Based Medical Recommendation System**  
+   Developed a system that predicts diseases and provides personalized recommendations, including medications, precautions, diets, and workouts based on user symptoms. The project includes a web app built with Flask to make it user-friendly.  
+   [🔗 View Project](https://github.com/Krishna-3238/Medical-Recommendation-System.git)
 
+2. **SMS Classifier Project**  
+   An application that classifies SMS messages as spam or not spam using machine learning techniques.  
+   [🔗 View Project](https://sms-classifier-project-app.streamlit.app/)
 
+3. **Book Recommendations Project**  
+   A system that provides book recommendations based on user preferences and reading history using machine learning algorithms.  
+   [🔗 View Project](https://book-recommendation-system-ml.streamlit.app/)
+
+## Certifications 📜
+1. **Python Summer Bootcamp** – Programming Pathshala  
+   Comprehensive training in Python programming, focusing on essential libraries like pandas, numpy, matplotlib, and seaborn for data analysis and visualization.  
+   [📄 Certification Link](https://github.com/Krishna-3238/Certification-Courses/blob/main/Python%20summer%20bootcamp%20programmingpathshala.pdf)
+
+2. **IBM Professional Data Science Certification** – Coursera  
+   An in-depth data science program covering data analysis, machine learning, and data visualization using tools like Python and SQL.  
+   [📄 Certification Link](https://github.com/Krishna-3238/Certification-Courses/tree/main/IBM%20Professional%20Data%20Science%20Certificates)
+
+3. **Data Analysis & Visualization with Excel, Tableau** – Coursera  
+   Practical training in data analysis and visualization techniques using Excel and Tableau, ideal for business intelligence tasks.  
+   [📄 Certification Link](https://github.com/Krishna-3238/Certification-Courses/tree/main/Data%20analysis%20certificates)
+
+## GitHub Stats 📊
+
+![Krishnandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishna-3238&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-3238&layout=compact&theme=radical)
 
 ## Contact Information
 - **Email**: ksah3238@gmail.com
 
-## Connect with Me
+## Connect with Me 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnandan)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krishna-3238)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/krishnandansah)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ksah3238/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ksah3238)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/krishna_323)
-
-## Projects
-1. **Symptom-Based Medical Recommendation System**  
-   Developed a system that predicts diseases and provides personalized recommendations, including medications, precautions, diets, and workouts based on user symptoms. The project includes a web app built with Flask to make it user-friendly.  
-   [View Project](https://github.com/Krishna-3238/Medical-Recommendation-System.git)
-
-2. **SMS Classifier Project**  
-   An application that classifies SMS messages as spam or not spam using machine learning techniques.  
-   [View Project](https://sms-classifier-project-app.streamlit.app/)
-
-3. **Book Recommendations Project**  
-   A system that provides book recommendations based on user preferences and reading history using machine learning algorithms.  
-   [View Project](https://book-recommendation-system-ml.streamlit.app/)
-   
-## Certifications
-1. **Python Summer Bootcamp** – Programming Pathshala  
-   Comprehensive training in Python programming, focusing on essential libraries like pandas, numpy, matplotlib, and seaborn for data analysis and visualization.  
-   [Certification Link](https://github.com/Krishna-3238/Certification-Courses/blob/main/Python%20summer%20bootcamp%20programmingpathshala.pdf)
-
-2. **IBM Professional Data Science Certification** – Coursera  
-   An in-depth data science program covering data analysis, machine learning, and data visualization using tools like Python and SQL.  
-   [Certification Link](https://github.com/Krishna-3238/Certification-Courses/tree/main/IBM%20Professional%20Data%20Science%20Certificates)
-
-3. **Data Analysis & Visualization with Excel, Tableau** – Coursera  
-   Practical training in data analysis and visualization techniques using Excel and Tableau, ideal for business intelligence tasks.  
-   [Certification Link](https://github.com/Krishna-3238/Certification-Courses/tree/main/Data%20analysis%20certificates)
-
-
-
